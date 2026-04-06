@@ -19,6 +19,7 @@ By default, your system compiles in **64-bit mode**:
 ```bash
 gcc struct_test.c -o struct_test
 ./struct_test
+```
 
 👉 This will print the sizes of different structures on a 64-bit system.
 
@@ -29,6 +30,7 @@ To test in 32-bit mode, run:
 ```bash
 gcc -m32 struct_test.c -o struct_test_32
 ./struct_test_32
+```
 
 ## ❌ Possible Error
 
@@ -36,7 +38,7 @@ You might encounter this error:
 
 ```bash
 fatal error: bits/libc-header-start.h: No such file or directory
-
+```
 ## 🛠️ Fix (Install Required Packages)
 
 If you see the above error, install the required 32-bit libraries:
@@ -44,7 +46,7 @@ If you see the above error, install the required 32-bit libraries:
 ```bash
 sudo apt update
 sudo apt install gcc-multilib
-
+```
 After installation, try compiling again with `-m32`.
 
 ## 🔍 What to Observe
