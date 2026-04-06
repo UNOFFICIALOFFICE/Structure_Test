@@ -1,0 +1,6 @@
+{
+  "name": "C Struct Padding Environment",
+  "image": "mcr.microsoft.com/devcontainers/cpp:ubuntu",
+  "features": {},
+  "postCreateCommand": "sudo apt update && sudo apt install -y gcc-multilib"
+}
