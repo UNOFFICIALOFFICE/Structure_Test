@@ -36,7 +36,8 @@ To test in 32-bit mode, run:
 gcc -m32 struct_test.c -o struct_test_32
 ./struct_test_32
 ```
-
+ - Ignore warnings!!
+   
 ## ❌ Possible Error
 
 You might encounter this error:
