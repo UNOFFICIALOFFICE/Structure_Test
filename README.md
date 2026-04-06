@@ -8,6 +8,8 @@ Test your understanding of **structure padding** by running the code and analyzi
 ## ▶️ How to Run the Code
 
 1. Click on the **Codespaces**.
+   <img width="1318" height="518" alt="Screenshot 2026-04-06 at 10 36 12 PM" src="https://github.com/user-attachments/assets/0129c727-88d6-44ef-8352-01569eaad22d" />
+
 2. Open the **terminal**.
 
 ---
