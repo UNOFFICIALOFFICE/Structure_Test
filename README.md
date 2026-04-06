@@ -11,6 +11,8 @@ Test your understanding of **structure padding** by running the code and analyzi
    <img width="1318" height="518" alt="Screenshot 2026-04-06 at 10 36 12 PM" src="https://github.com/user-attachments/assets/0129c727-88d6-44ef-8352-01569eaad22d" />
 
 2. Open the **terminal**.
+   <img width="1460" height="743" alt="Screenshot 2026-04-06 at 10 38 01 PM" src="https://github.com/user-attachments/assets/1ee0b3d5-f27c-4f65-a95e-401751533c22" />
+
 
 ---
 
